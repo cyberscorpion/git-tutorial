@@ -1,3 +1,3 @@
 b.txt
 
-My number is 2
+My number is 4
